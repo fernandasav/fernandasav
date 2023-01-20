@@ -1,6 +1,10 @@
 # Nome da Actions:  
 name: Snake Game
 
+permissions:
+      id-token: write   # This is required for requesting the JWT
+      contents: read    # This is required for actions/checkout
+
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
