@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write 
-      contents: read
+      contents: write
     steps:
       # Snake Animation
       - uses: Platane/snk@master
@@ -27,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
