@@ -1,9 +1,5 @@
 <h1> 👩‍💻  Hi! I'm Fernanda Savatin </h1> 
 
-- 🏦 I work as a Software Analyst at B3
-- 🚀 I’m currently learning Java, JavaScrpit, HTML, e CSS
-- 👯 I’m looking for to collaborate on Full Stack projects
-- 💫 Ask me about Marketing and Technology
 
 <h2 align="left"></h2>
 
