@@ -46,10 +46,4 @@
   </a>
 </div>
 
----
 
-## 🐍 Contributions
-
-<div align="center">
-  <img src="https://github.com/fernandasav/fernandasav/blob/output/github-contribution-grid-snake.svg" />
-</div>
